@@ -1,5 +1,6 @@
 # Laptop-Battery-Monitor
 
+
   Guangen Xin: 
     Researched about how to handle Windows Messages
     Researched about how to query a battery device
